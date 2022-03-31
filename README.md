@@ -6,7 +6,8 @@ www.patika.dev/tr
 
 Önce sıralamalıyız : [0,1,2,3,4,5,6,7,8,9]
 
-Sıralanmış yapıda root 5 olmalıdır. Ve son hali 
+Sıralanmış yapıda root 5 olmalıdır. Ve son hali.
+
                               5
                              / \
                            3     7
